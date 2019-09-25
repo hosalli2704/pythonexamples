@@ -1,0 +1,6 @@
+IP address	Username 	Timestamp 	Access request	Result status code	Bytes transferred	Referrer URL	User Agent 123.123.123.123	--	[26/Apr/2000:00:23:48	-0400]	"GET	/pics/wpaper.gif	HTTP/1.0"	200
+123.123.123.123	--	[26/Apr/2000:00:23:47	-0400]	"GET	/asctortf/	HTTP/1.0"	200
+123.123.123.123	--	[26/Apr/2000:00:23:48	-0400]	"GET	/pics/5star2000.gif	HTTP/1.0"	200
+123.123.123.123	--	[26/Apr/2000:00:23:50	-0400]	"GET	/pics/5star.gif	HTTP/1.0"	200
+123.123.123.123	--	[26/Apr/2000:00:23:51	-0400]	"GET	/pics/a2hlogo.jpg	HTTP/1.0"	200
+123.123.123.123	--	[26/Apr/2000:00:23:51	-0400]	"GET	/cgi-bin/newcount?jafsof3&width=4&font=digital&noshow	HTTP/1.0"	200
