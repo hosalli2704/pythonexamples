@@ -45,3 +45,8 @@ for line in F:
         #print(ip, date, im , wb)
 
 
+import pandas as pd
+L1 = [[10,20,30],[40,50,60]]
+L2 = list([[10,20,30],[40,50,60]])
+df1 = pd.DataFrame([[10,20,30],[40,50,60]])
+print(L1, L2, df1, sep='\n')
